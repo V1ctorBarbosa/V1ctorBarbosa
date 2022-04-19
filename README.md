@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Victor Barbosa!
 
-- 🌱 Eu estou atualmente estudando CSS, JavaScript e REACT.
+- 🌱 Eu estou atualmente estudando NODE.js e REACT.
 - 👯 Procuro pela minha primeira vaga na Área de programação.
 - 😄 ele / dele.
 - ⚡ Fun fact: Tenho uma banda com meu irmão (gêmeo)!
