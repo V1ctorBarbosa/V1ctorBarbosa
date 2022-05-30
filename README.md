@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Victor Barbosa!
 
-- 🌱 Eu estou atualmente estudando NODE.js e REACT.
-- 👯 Procuro pela minha primeira vaga na Área de programação.
+- 🌱 Eu sou um desenvolvedor full-stack e trabalho com Node.js e React.
 - 😄 ele / dele.
 - ⚡ Fun fact: Tenho uma banda com meu irmão (gêmeo)!
 
