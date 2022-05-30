@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Victor Barbosa!
 
-- 🌱 Eu sou um desenvolvedor full-stack e trabalho com HTML, CSS, Bootstrap, JavaScript, Node.js, JSX e React.
+- 🌱 Eu sou um desenvolvedor full-stack e trabalho com HTML, CSS, Bootstrap, JavaScript, JQuery, Node.js, JSX e React.
 - 😄 ele / dele.
 - ⚡ Fun fact: Tenho uma banda com meu irmão (gêmeo)!
 
