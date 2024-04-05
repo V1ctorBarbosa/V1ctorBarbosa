@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Victor Barbosa!
 
-- 🌱 Eu sou um desenvolvedor, metido a full-stack (mas bem mais focado em front-end haha) e trabalho tecnologias como HTML, CSS, Bootstrap, JavaScript, Typescript, Firebase, MongoDB, NodeJS, ReactJS e Redux.
-
+- 🌱 Eu sou um desenvolvedor web e trabalho tecnologias como Typescript, Firebase, MongoDB, NodeJS, ReactJS, Redux, APIContext e Vite.
 
 <div align="center">
   <a href="https://github.com/V1ctorBarbosa">
